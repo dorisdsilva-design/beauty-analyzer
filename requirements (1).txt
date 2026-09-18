@@ -1,0 +1,7 @@
+streamlit
+pandas
+matplotlib
+pytrends
+requests
+feedparser
+vaderSentiment
